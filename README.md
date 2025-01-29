@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @E28MS
 - 👀 I’m interested in mental models and how to apply them to my learning
 - 🌱 I’m currently learning : Azure Administrator in preparation for taking AZ-104
-- 😁I'm currently working on: an Infrastructure as Code project
+- 😁I'm currently working on building stuff.
 - 💞️ I’m looking to collaborate on open source projects suitable for a beginner
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I'm learning to play the violin on a teensy tiny 1/4 violin and loving it (the dog not so much!)
