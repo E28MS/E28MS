@@ -1,13 +1,16 @@
 ## 👋 Hi, I'm Elmarie
 
-I'm a career-changer with a background in social care leadership, now building a path in cloud engineering. Currently preparing for the AZ-104: Microsoft Azure Administrator certification, I'm passionate about automation, infrastructure as code, and scalable cloud solutions.
+I'm a career-changer with a background in social care leadership, now building a path in cloud engineering. Currently preparing for the AZ-104: Microsoft Azure Administrator certification and also learning Terraform, I'm passionate about automation, infrastructure as code, and scalable cloud solutions.
 
-🛠 Projects:  
+🛠 Projects planned/in progress for A104:  
 - **Onboarder** – Automates user provisioning with Logic Apps & Graph API  
 - **ShareSafely** – Secure file storage with Azure Blob & Key Vault  
 - **VM Fleet Commander** – Deploys VMs at scale using ARM/Bicep  
 - **NetMaze Explorer** – Builds and secures virtual networks  
 - **Azure InsightScape** – Monitors and backs up resources with Azure Monitor
+
+Projects for Terraform:
+- Deploying and destroying resources with Terraform, using modules
 
 📚 Always learning | ☁️ Cloud-first mindset | 🤝 Open to collaboration  
 
